@@ -1,0 +1,23 @@
+{
+  "name": "test2-javascript-env",
+  "version": "0.0.0",
+  "description": "Esto es un entorno de prueba de ES6 para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirna14/test2-javascript-env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "Mirna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirna14/test2-javascript-env/issues"
+  },
+  "homepage": "https://github.com/mirna14/test2-javascript-env#readme"
+}
